@@ -1,2 +1,2 @@
-class Students
+class Student
 end
